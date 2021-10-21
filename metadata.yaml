@@ -1,5 +1,8 @@
 _repo: Le-chevalier-d-Eon-1728-1810_66483
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66483-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Jousselin, Fernand
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '53834'
     url: http://www.gutenberg.org/2009/agents/53834
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66483#Le-chevalier-d-Eon-1728-1810
 gutenberg_issued: '2021-10-06'
 identifiers:
   gutenberg: '66483'
